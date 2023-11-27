@@ -24,9 +24,10 @@ See `freecodecamp.com` for ways to get started.
 
 ## Demo
 
-Insert gif or link to demo
+Live Site URL
 
 https://color-flipper-by-meric-cintosun.vercel.app/
+
 ## Screenshots
 
 ![App Screenshot](https://r.resimlink.com/H43QR2.png)
